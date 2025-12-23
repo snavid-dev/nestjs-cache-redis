@@ -5213,7 +5213,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"keyv@npm:^5.5.4":
+"keyv@npm:^5.5.4, keyv@npm:^5.5.5":
   version: 5.5.5
   resolution: "keyv@npm:5.5.5"
   dependencies:
@@ -5698,6 +5698,7 @@ __metadata:
     eslint-plugin-prettier: "npm:^5.2.2"
     globals: "npm:^16.0.0"
     jest: "npm:^30.0.0"
+    keyv: "npm:^5.5.5"
     prettier: "npm:^3.4.2"
     redis: "npm:^5.10.0"
     reflect-metadata: "npm:^0.2.2"

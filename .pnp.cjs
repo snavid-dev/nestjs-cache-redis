@@ -48,6 +48,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-plugin-prettier", "virtual:ec9eeec31013a0db5f408772e94ce5f7017f5351895be08846837b8801322b1ed3d6bc1c3eeaeb4203be1dcaa6b7bfbd999654241367ac69c41da22ef06458fd#npm:5.5.4"],\
           ["globals", "npm:16.5.0"],\
           ["jest", "virtual:ec9eeec31013a0db5f408772e94ce5f7017f5351895be08846837b8801322b1ed3d6bc1c3eeaeb4203be1dcaa6b7bfbd999654241367ac69c41da22ef06458fd#npm:30.2.0"],\
+          ["keyv", "npm:5.5.5"],\
           ["nest-reids-cache", "workspace:."],\
           ["prettier", "npm:3.7.4"],\
           ["redis", "npm:5.10.0"],\
@@ -2099,7 +2100,7 @@ const RAW_RUNTIME_STATE =
           ["@types/nestjs__core", null],\
           ["@types/rxjs", null],\
           ["cache-manager", "npm:7.2.7"],\
-          ["keyv", null],\
+          ["keyv", "npm:5.5.5"],\
           ["rxjs", "npm:7.8.2"]\
         ],\
         "packagePeers": [\
@@ -7548,6 +7549,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-plugin-prettier", "virtual:ec9eeec31013a0db5f408772e94ce5f7017f5351895be08846837b8801322b1ed3d6bc1c3eeaeb4203be1dcaa6b7bfbd999654241367ac69c41da22ef06458fd#npm:5.5.4"],\
           ["globals", "npm:16.5.0"],\
           ["jest", "virtual:ec9eeec31013a0db5f408772e94ce5f7017f5351895be08846837b8801322b1ed3d6bc1c3eeaeb4203be1dcaa6b7bfbd999654241367ac69c41da22ef06458fd#npm:30.2.0"],\
+          ["keyv", "npm:5.5.5"],\
           ["nest-reids-cache", "workspace:."],\
           ["prettier", "npm:3.7.4"],\
           ["redis", "npm:5.10.0"],\
